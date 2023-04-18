@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkwc0213)](https://solved.ac/parkwc0213)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wonchangPark&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonchangPark)](https://github.com/anuraghazra/github-readme-stats)
